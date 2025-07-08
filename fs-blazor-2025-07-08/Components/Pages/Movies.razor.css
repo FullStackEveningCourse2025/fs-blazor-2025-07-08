@@ -1,0 +1,11 @@
+﻿.movie-link {
+    text-decoration: none;
+    color: #0078D7; /* Primary blue */
+    font-weight: 500;
+    transition: color 0.2s ease-in-out;
+}
+
+    .movie-link:hover {
+        color: #0056a3; /* Darker blue on hover */
+        text-decoration: underline;
+    }
